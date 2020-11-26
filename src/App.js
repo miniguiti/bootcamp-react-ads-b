@@ -1,4 +1,6 @@
 import './assets/css/style.css'
+import Login from './pages/Login'
+import LoginRedirect from './pages/LoginRedirect'
 import Teacher from './pages/Teacher'
 
 function App() {
@@ -7,7 +9,7 @@ function App() {
   document.body.appendChild(scriptIcons)
 
   return (
-    <Teacher/>
+    <LoginRedirect/>
   );
 }
 
