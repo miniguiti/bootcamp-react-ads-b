@@ -1,3 +1,3 @@
 # bootcamp-react-ads-b
 
-![fluxo_v2](https://user-images.githubusercontent.com/37668247/100263256-0aba9a80-2f2c-11eb-959e-56ee59416ff1.png)
+![v3](https://user-images.githubusercontent.com/37668247/100354021-39894d00-2fce-11eb-85a0-0f71e6dd0480.png)
