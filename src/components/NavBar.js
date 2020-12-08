@@ -1,5 +1,5 @@
 import React from 'react';
-
+import {Link} from 'react-router-dom'
 function NavBar(){
     return(
         <nav>
@@ -12,7 +12,10 @@ function NavBar(){
           <input type="text" />
           <i className="fas fa-search"></i>
         </div>
-        <i className="fas fa-user"></i>
+        <Link to="/logout">
+          <i className="fas fa-user"></i>
+        </Link>
+        
         <i className="fas fa-bell"></i>
       </nav>
     );
